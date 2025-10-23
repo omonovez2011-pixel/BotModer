@@ -5,7 +5,7 @@ from aiogram.enums import ChatMemberStatus
 
 API_TOKEN = "8394599436:AAFbNU2AUz1epCUN76QSVd8GljaSc--Jfi4"
 
-bot = Bot(token=8394599436:AAFbNU2AUz1epCUN76QSVd8GljaSc--Jfi4)
+bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
 
 # Список плохих слов
